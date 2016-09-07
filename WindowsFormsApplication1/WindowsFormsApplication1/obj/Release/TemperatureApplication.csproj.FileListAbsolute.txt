@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\CelsiusAndFahrenheit.dll
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\CelsiusAndFahrenheit.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TemperatureApplication.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\TemperatureApplication.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

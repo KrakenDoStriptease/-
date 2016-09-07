@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\CelsiusAndFahrenheit\bin\Debug\CelsiusAndFahrenheit.dll
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\CelsiusAndFahrenheit\bin\Debug\CelsiusAndFahrenheit.pdb
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\CelsiusAndFahrenheit\obj\Debug\CelsiusAndFahrenheit.dll
+c:\users\admin\documents\visual studio 2015\Projects\WindowsFormsApplication1\CelsiusAndFahrenheit\obj\Debug\CelsiusAndFahrenheit.pdb
